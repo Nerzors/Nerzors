@@ -40,4 +40,10 @@ Currently no scripting or support requests: <b>on indefinitely time</b><i>(Priva
 
 ---
 #### **Notable Projects**
-Soon
+* **LoLPick**[2015-2017] *a Web Champion Random Pick for League of Legends with random Items and Other Stuff*
+* **NCMS** *a Content Managment System*
+* **WoW-Legendarys**[2016-2018] (aka KillPoints) *a web app for WoW: Legion to calculate when a next legendary might drop*
+* **D3Profile** [2016-2018] *System for Diablo 3 to improve his character (Top Gear, Top Builds), quite comprehensive system with GUI and what to change for the selected build*
+* **NerzEditor**[2017-2019] *Overlay editor for streamers (Twitch/YT) to create overlays and use my created overlays*
+* **picNerzors** *A simple picture uploading system at that time as a test/fun and later for sale*
+* **PureGalaxy**[2014-2016] *A browser game like ogame. was a fun project as Team*
