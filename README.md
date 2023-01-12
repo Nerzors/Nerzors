@@ -4,7 +4,7 @@ Hello there 👋<br>
 Self-taught programmer. Mainly using JS/TS.
 
 ### 📢 Announcement
-<s>Currently no scripting or support requests: <b>o</b><i>(Private reasons)</i></s>
+<s>Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i></s>
 <br>
 
 ### You can find me
