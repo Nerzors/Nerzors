@@ -8,7 +8,7 @@ Self-taught programmer. Mainly using JS/TS.
 <br>
 
 ### You can find me
-[<img align="left" title="Nerzors#2205" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
+[<img align="left" title="Nerzors" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
 
 <br>
 
