@@ -46,11 +46,11 @@ No runing Projects or Side Prrojects (more on website)
 ---
 #### **Notable Projects**
 * **LoLPick**[2015-2017] *a Web Champion Random Pick for League of Legends with random Items and Other Stuff*
-* **NCMS** *a Content Managment System*
+* **NCMS**[2012-2022] *a Content Managment System*
 * **WoW-Legendarys**[2016-2018] (aka KillPoints) *a web app for WoW: Legion to calculate when a next legendary might drop*
 * **D3Profile** [2016-2018] *System for Diablo 3 to improve his character (Top Gear, Top Builds), quite comprehensive system with GUI and what to change for the selected build*
 * **NerzEditor**[2017-2019] *Overlay editor for streamers (Twitch/YT) to create overlays and use my created overlays*
-* **picNerzors** *A simple picture uploading system at that time as a test/fun and later for sale*
+* **picNerzors**[2009-2018] *A simple picture uploading system at that time as a test/fun and later for sale*
 * **PureGalaxy**[2014-2016] *A browser game like ogame. was a fun project as Team*
 * **unreRP**[2021-2023] *A GTA RP Project. Alpha -> Beta, It was in dev. Project was canceled due to lack of interest. was a fun project as Team*
 * **YT-Boombox**[2024] *A Discord Bot Youtube Playlist, Only for Private Used*
