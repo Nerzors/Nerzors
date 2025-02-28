@@ -11,7 +11,7 @@ Self-taught Full-stack Programmer. Mainly using JS/TS.
 No runing Projects or Side Prrojects (more on website)
 
 ### You can find me
-[<img align="left" title="Nerzors" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](#)
+[<img align="left" title="Nerzors" alt="Discord" width="26px" src="https://media.nerzors.de/img/icon/programming/discord-logo.png" />](#)
 
 <br>
 
