@@ -1,7 +1,7 @@
 # Nerzors <sup style="font-size: 12px">he/him</sup>
 
 Hello there 👋<br>
-Self-taught programmer. Mainly using JS/TS.
+Self-taught Full-stack Programmer. Mainly using JS/TS.
 
 ### 📢 Announcement
 <s>Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i></s>
@@ -26,6 +26,7 @@ No runing Projects or Side Prrojects (more on website)
 * CSS3
 * PHP
 * Renpy
+* Java <em>(Specific Minecraft Mods on Fabric)</em>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -35,13 +36,13 @@ No runing Projects or Side Prrojects (more on website)
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
-<img align="left" alt="Renpy" width="26px" src="https://media.nerzors.de/img/icon/programming/renpy-logo.png" />
+<img align="left" alt="Java" width="26px" src="https://media.nerzors.de/img/icon/programming/java-logo.webp" />
 
 
 <br>
 
 #### **Learn Skill**
-* C++
+* C# / C++ <em>(Learning Break)</em>
 
 ---
 #### **Notable Projects**
@@ -53,4 +54,4 @@ No runing Projects or Side Prrojects (more on website)
 * **picNerzors**[2009-2018] *A simple picture uploading system at that time as a test/fun and later for sale*
 * **PureGalaxy**[2014-2016] *A browser game like ogame. was a fun project as Team*
 * **unreRP**[2021-2023] *A GTA RP Project. Alpha -> Beta, It was in dev. Project was canceled due to lack of interest. was a fun project as Team*
-* **YT-Boombox**[2024] *A Discord Bot Youtube Playlist, Only for Private Used*
+* **YT-Boombox**[2024] *A Discord Bot Youtube Playlist, Only for Private Used. Recently, some selected individuals gained exclusive access.*
