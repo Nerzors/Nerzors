@@ -1,7 +1,7 @@
 # Nerzors <sup style="font-size: 12px">he/him</sup>
 
 Hello there 👋<br>
-Self-taught Full-stack Programmer. Mainly using JS/TS.
+Self-taught Full-stack Developer. Mainly using JS/TS.
 
 ### 📢 Announcement
 <s>Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i></s>
@@ -44,6 +44,8 @@ No runing Projects or Side Prrojects (more on website)
 
 #### **Learn Skill**
 * C# / C++ <em>(Learning Break)</em>
+* LUA <em>(Not sure, but needed from time to time)</em>
+* Python <em>(Dont started to learn)</em>
 
 ---
 #### **Notable Projects**
