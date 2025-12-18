@@ -58,3 +58,4 @@ No runing Projects or Side Prrojects (more on website)
 * **PureGalaxy**[2014-2016] *A browser game like ogame. was a fun project as Team*
 * **unreRP**[2021-2023] *A GTA RP Project. Alpha -> Beta, It was in dev. Project was canceled due to lack of interest. was a fun project as Team*
 * **YT-Boombox**[2024] *A Discord Bot Youtube Playlist, Only for Private Used. Recently, some selected individuals gained exclusive access.*
+* **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)**[2025] *eq_SEImgConverter turns images into monospace text strings you can paste into Space Engineers LCD panels*
