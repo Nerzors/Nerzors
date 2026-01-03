@@ -35,7 +35,7 @@ No runing Projects or Side Prrojects (more on website)
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css" />
   <img alt="SCSS" src="https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=sharp" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus" /><br>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel" />
