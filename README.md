@@ -24,7 +24,7 @@ No runing Projects or Side Prrojects (more on website)
 * NodeJS
 * HTML5
 * CSS3/SCSS
-* PHP
+* PHP / Laravel
 * Renpy
 * Java <em>(Specific Minecraft Mods on Fabric)</em>
 
