@@ -45,8 +45,8 @@ No runing Projects or Side Prrojects (more on website)
 
 ### Still learning
 <p align="left">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" /> <em>(Not sure, but needed from time to time)</em><br>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" /> <em>(Dont started to learn)</em>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" /> <sup style="font-size: 12px">(Not sure, but needed from time to time)</sup><br>
+  <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" /> <sup style="font-size: 12px">(Dont started to learn)</sup>
 </p>
 
 ---
