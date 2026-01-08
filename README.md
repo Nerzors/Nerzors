@@ -4,7 +4,7 @@ Hello there 👋<br>
 Self-taught Full-stack Developer. Mainly using JS/TS. I build web apps, tools, and game-related utilities.
 
 ### 📢 Announcement
-Currently no scripting or support requests: <b>on indefinitely time</b>
+Currently no scripting requests: <b>on indefinitely time</b>
 <br>
 
 ### 🧹 Active Projects
