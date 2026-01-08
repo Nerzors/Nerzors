@@ -12,8 +12,8 @@ No runing Projects or Side Prrojects (more on website)
 
 ## 🔗 You can find me
 <p align="left">
-  <a href="Nerzors">
-    <img alt="Discord: Nerzors" title="Nerzors" src="https://img.shields.io/badge/Discord-contact-0D1117?style=for-the-badge&logo=discord" />
+  <a href="#Nerzors">
+    <img alt="Discord: Nerzors" title="Nerzors" src="https://img.shields.io/badge/Discord-NERZORS-0D1117?style=for-the-badge&logo=discord" />
   </a>
 </p>
 
