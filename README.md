@@ -4,11 +4,11 @@ Hello there 👋<br>
 Self-taught Full-stack Developer. Mainly using JS/TS. I build web apps, tools, and game-related utilities.
 
 ### 📢 Announcement
-<s>Currently no scripting or support requests: <b>on indefinitely time</b><i>(Private reasons)</i></s>
+Currently no scripting or support requests: <b>on indefinitely time</b>
 <br>
 
 ### 🧹 Active Projects
-No runing Projects or Side Prrojects (more on website)
+- **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** or more on website [Nerzors.DE](https://nerzors.de)
 
 ## 🔗 You can find me
 <p align="left">
