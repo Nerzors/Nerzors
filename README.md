@@ -60,6 +60,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 * **PureGalaxy** (2008-2010 / 2014–2016) — *A browser game like ogame. was a fun project as Team*
 * **unreRP** (2021–2023) — *A GTA RP Project. Alpha -> Beta, It was in dev. Project was canceled due to lack of interest. was a fun project as Team*
 * **YT-Boombox** (2024) — *A Discord Bot Youtube Playlist, Only for Private Used. Recently, some selected individuals gained exclusive access.*
+* **[Eredar.EU | WoW Token Watch](https://eredar.eu/)** (2020-2025) — *This site collects and visualizes official WoW Token prices (World of Warcraft) for Retail and Classic across EU, US, KR and TW. The project is now at Nerzors.DE, but I no longer manage it, only as a developer.*
 * **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** (2025) — *eq_SEImgConverter turns images into monospace text strings you can paste into Space Engineers LCD panels*
 
 
