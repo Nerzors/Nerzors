@@ -78,7 +78,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs" />
     </p>
 
-  - **PureGalaxy** (2008–2010 / 2014–2016) — Browser strategy game (OGame-like). Rebuild planned as a learning project  
+  - **PureGalaxy** (2008–2010 / 2014–2016 / 2024-now) — Browser strategy game (OGame-like). Rebuild planned as a learning project  
     <p align="left">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
