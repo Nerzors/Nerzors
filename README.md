@@ -68,6 +68,13 @@ Currently no scripting requests: <b>on indefinitely time</b>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   </p>
 
+- **[Netlab.Nerzors](https://netlab.nerzors.com/)** (2025–2026) | is a small web app for planning network layouts, primarily aimed at the game "Tower Networking Inc."  
+  <p align="left">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
+  </p>
+
 <details>
   <summary><b>Private / Limited</b></summary>
 
