@@ -80,24 +80,38 @@ Currently no scripting requests: <b>on indefinitely time</b>
 
   <br>
   
+  - **NBK-Addon** (2020-2025 / 2026-now) | Rebuild & Update NBK Addon, More soon...  
+    <p align="left">
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
+    </p>
+    
   - **YT-Boombox** (2024) | Discord bot for YouTube playlists  
     <p align="left">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" />
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs" />
     </p>
 
-  - **PureGalaxy** (2008–2010 / 2014–2016 / 2024-now) | Browser strategy game (OGame-like). Rebuild planned as a learning project  
+  - **Overlay-.Studio** (2017-2019 / 2026-now) | Rebuild & Rename old `NerzEditor` for learn and Testing...  
     <p align="left">
-      <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
+      <img alt="Vue" src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs" />
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
-      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel" />
+      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs" />
+      <img alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql" />
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
     </p>
+
 </details>
 <details>
   <summary><b>Archived / Inactive</b></summary>
 
   <br>
-
+  - **PureGalaxy** (2008–2010 / 2014–2016 / 2024-break) | Browser strategy game (OGame-like). Rebuild planned as a learning project  
+    <p align="left">
+      <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
+      <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel" />
+    </p>
+    
   - **unreRP** (2021–2023) | GTA RP project (Alpha → Beta), cancelled due to lack of interest  
     <p align="left">
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript" />
