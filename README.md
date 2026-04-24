@@ -80,7 +80,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 
   <br>
   
-  - **NBK-Addon** (2020-2025 / 2026-now) | Rebuild & Update NBK Addon, More soon...  
+  - **NBK-Addon** (2020-2025 / 2026-break) | Rebuild & Update NBK WoW Addon, More soon...  
     <p align="left">
       <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
     </p>
@@ -105,6 +105,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
   <summary><b>Archived / Inactive</b></summary>
 
   <br>
+  
   - **PureGalaxy** (2008–2010 / 2014–2016 / 2024-break) | Browser strategy game (OGame-like). Rebuild planned as a learning project  
     <p align="left">
       <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
