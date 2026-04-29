@@ -10,6 +10,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 ### 🧹 Active Projects
 - **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** or more on website [Nerzors.DE](https://nerzors.de)
 - **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
+- **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
 
 ## 🔗 You can find me
 <p align="left">
