@@ -8,7 +8,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 <br>
 
 ### 🧹 Active Projects
-- **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** or more on website [Nerzors.DE](https://nerzors.de)
+- **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** V1.0 Released
 - **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
 - **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
 
@@ -42,12 +42,12 @@ Currently no scripting requests: <b>on indefinitely time</b>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql" />
-  <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" />
+  <img alt="SQL" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql" /><br>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
 </p>
 
 ### Still learning
 <p align="left">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" /> <sup style="font-size: 12px">(Not sure, but needed from time to time)</sup><br>
   <img alt="Python" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python" /> <sup style="font-size: 12px">(Dont started to learn)</sup>
 </p>
 
