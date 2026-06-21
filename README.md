@@ -76,12 +76,17 @@ Currently no scripting requests: <b>on indefinitely time</b>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   </p>
 
+  - **[NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)** (2026) | Rebuild & Update NBK WoW Addon, More soon...  
+    <p align="left">
+      <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
+    </p>
+
 <details>
   <summary><b>Private / Limited</b></summary>
 
   <br>
   
-  - **NBK-Addon** (2020-2025 / 2026-break) | Rebuild & Update NBK WoW Addon, More soon...  
+  - **NBK-Addon V1** (2020-2025) | Blacklist Addon for World of Warcraft...  
     <p align="left">
       <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
     </p>
