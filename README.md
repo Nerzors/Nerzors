@@ -11,6 +11,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 - **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** V1.0 Released
 - **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
 - **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
+- **[NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)**
 
 ## 🔗 You can find me
 <p align="left">
@@ -76,7 +77,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   </p>
 
-  - **[NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)** (2026) | Rebuild & Update NBK WoW Addon, More soon...  
+- **[NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)** (2026) | Rebuild & Update NBK WoW Addon, More soon...  
     <p align="left">
       <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
     </p>
