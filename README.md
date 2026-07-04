@@ -11,7 +11,8 @@ Currently no scripting requests: <b>on indefinitely time</b>
 - **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** V1.0 Released
 - **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
 - **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
-- **[<img src="https://media.nerzors.de/addons/nbk/nbkAddon_Midnight.final-v3.png" width="16" alt="Nerzors Blacklist Keeper Logo"/>NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)**
+### WoW Addons / Projects
+- **[<img src="https://media.nerzors.de/addons/nbk/nbkAddon_Midnight.final-v3.png" width="16" alt="Nerzors Blacklist Keeper Logo"/> NerzorsBlacklistKeeper 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)**
 
 ## 🔗 You can find me
 <p align="left">
