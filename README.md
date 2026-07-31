@@ -8,7 +8,7 @@ Currently no scripting requests: <b>on indefinitely time</b>
 <br>
 
 ### 🧹 Active Projects
-- **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** V1.0 Released
+- **[eq_SEImgConverter](https://tl8.site/eq/seimgconverter)** V1.0 Released
 - **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
 - **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
 - #### Active WoW Addons / Projects
