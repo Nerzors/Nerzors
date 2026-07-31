@@ -8,11 +8,24 @@ Currently no scripting requests: <b>on indefinitely time</b>
 <br>
 
 ### 🧹 Active Projects
-- **[eq_SEImgConverter](https://tl8.site/eq/seimgconverter)** V1.0 Released
-- **[Netlab.Nerzors](https://github.com/Nerzors/Nerzors-Netlab-Planner)** or more on website [netlab.Nerzors.com](https://netlab.nerzors.de)
-- **[Eredar.EU | WoW Token Watch](https://eredar.eu/en-gb/)** only as Developer
-- #### Active WoW Addons / Projects
-  - **[<img src="https://media.nerzors.de/addons/nbk/nbkAddon_Midnight.final-v3.png" width="16" alt="Nerzors Blacklist Keeper Logo"/> NerzorsBlacklistKeeper 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)**
+<p align="left">
+  <a href="https://tl8.site/eq/seimgconverter">
+    <img src="https://img.shields.io/badge/SEImgConverter-121722?style=flatg&logo=github&logoSize=32&label=Tool&labelColor=8fa7f9&logoColor=121722">
+  </a><br>
+  <a href="https://eredar.eu/en-gb/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Eredar.EU-121722?style=flat&logo=github&label=Developer%20by&labelColor=8fa7f9&logoColor=121722">
+  </a><br>
+</p>
+
+#### Active WoW Addons / Projects
+<p align="left">
+  <a href="https://github.com/Nerzors/NerzorsBlacklistKeeper">
+    <img alt="Static Badge" src="https://img.shields.io/badge/NerzorsBlacklistKeeper-121722?style=flat&logo=curseforge&label=WoW%20Addon&labelColor=8fa7f9&logoColor=121722"><img src="https://media.nerzors.de/addons/nbk/nbkAddon_Midnight.final-v3.png" width="26" alt="Nerzors Blacklist Keeper Logo"/>
+  </a><br>
+    <a href="https://github.com/Nerzors/NerzorsBlacklistKeeperCore">
+      <img alt="Static Badge" src="https://img.shields.io/badge/NerzorsBlacklistKeeper_Core-121722?style=flat&logo=curseforge&label=WoW%20Addon&labelColor=8fa7f9&logoColor=121722">
+  </a><br>
+</p>
 
 ## 🔗 You can find me
 <p align="left">
