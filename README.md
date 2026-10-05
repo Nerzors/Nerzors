@@ -84,13 +84,6 @@ Currently no scripting requests: <b>on indefinitely time</b>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
   </p>
 
-- **[Netlab.Nerzors](https://netlab.nerzors.com/)** | *[github](https://github.com/Nerzors/Nerzors-Netlab-Planner/)* (2025–2026) | is a small web app for planning network layouts, primarily aimed at the game "Tower Networking Inc."  
-  <p align="left">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
-  </p>
-
 - **[NBK-Addon 2.0](https://github.com/Nerzors/NerzorsBlacklistKeeper)** (2026) | Rebuild & Update NBK WoW Addon, More soon...  
     <p align="left">
       <img alt="Lua" src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua" />
@@ -126,6 +119,13 @@ Currently no scripting requests: <b>on indefinitely time</b>
   <summary><b>Archived / Inactive</b></summary>
 
   <br>
+
+  - **[Netlab.Nerzors](https://netlab.nerzors.com/)** | *[github](https://github.com/Nerzors/Nerzors-Netlab-Planner/)* (2025–2026) | is a small web app for planning network layouts, primarily aimed at the game "Tower Networking Inc."  
+  <p align="left">
+    <img alt="Vue" src="https://img.shields.io/badge/Vue-0D1117?style=for-the-badge&logo=vuedotjs" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php" />
+  </p>
   
   - **PureGalaxy** (2008–2010 / 2014–2016 / 2024-break) | Browser strategy game (OGame-like). Rebuild planned as a learning project  
     <p align="left">
