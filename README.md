@@ -69,6 +69,8 @@ Currently no scripting requests: <b>on indefinitely time</b>
 ---
 
 #### **Notable Projects** <small>(work in progress, list not quite final)</small>
+> [!TIP]
+> [page projects](https://nerzors.de/en/projects)
 
 **Active / Recent**
 - **[eq_SEImgConverter](https://github.com/Nerzors/seimgconverter)** (2025–now) | Image → Monospace for Space Engineers LCD panels  
